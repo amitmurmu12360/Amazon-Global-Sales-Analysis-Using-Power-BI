@@ -20,6 +20,9 @@ stakeholders can have a holistic view on the dashboard & can take important deci
 
 # For more project info -
 project link - https://app.powerbi.com/links/R4841gf6bw?ctid=0fdd8f71-8f38-411b-a3aa-60326723410a&pbi_source=linkShare
+
 gmail id - amitmurmu12360@gmail.com 
+
 portfolio website link - amitmurmu12360.wixsite.com/amit-portfoliowebsit
+
 github link - https://github.com/amitmurmu12360 
